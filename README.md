@@ -7,7 +7,7 @@ The OTA function of ESP-IDF is somewhat more intelligent so the extra addendum f
 History
 
 Version 1.1 - 01-05-2020
--  Addid URI for ESP-IDF OTA function
+-  Added URI for ESP-IDF OTA function
 -  Changed to Java11+ environment (no more JavaEE functions in standard JVM)
 
 Version 1.0 - 25-07-2018
